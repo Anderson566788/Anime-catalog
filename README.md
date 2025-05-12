@@ -11,6 +11,7 @@ Uma API RESTful simples para gerenciamento de um catálogo de animes, feita com 
 **mysql2** – Driver MySQL para Node.js com suporte a Promises
 
 ## 📂 Estrutura de pastas
+```
 pgsql
 Copiar
 Editar
@@ -23,6 +24,7 @@ CATALOGO-ANIME/
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ## ⚙️ Requisitos
 **Node.js 18+**
