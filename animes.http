@@ -1,0 +1,28 @@
+POST http://localhost:3000/animes
+Content-Type: application/json
+
+{
+    "title": "Naruto",
+    "synopsis": "Um ninja que tem o objetivo de se tornar o presidente da aldeia",
+    "episodes": 220,
+    "genre": ["Ação", "Aventura", "Shounen"],
+    "releaseYear": 2002
+}
+
+###
+GET http://localhost:3000/animes
+
+###
+PUT http://localhost:3000/animes/1
+Content-Type: application/json
+
+{
+    "title": "Jojo's bizarre adventure",
+    "synopsis": "Caras bombados lutando contra monstros enquanto faz pose",
+    "episodes": 220,
+    "genre": ["Shounen", "Seinen"],
+    "releaseYear": 2012
+}
+
+###
+DELETE http://localhost:3000/animes/3
