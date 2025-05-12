@@ -12,9 +12,6 @@ Uma API RESTful simples para gerenciamento de um catálogo de animes, feita com 
 
 ## 📂 Estrutura de pastas
 ```
-pgsql
-Copiar
-Editar
 CATALOGO-ANIME/
 ├── config/
 │   └── database.js
