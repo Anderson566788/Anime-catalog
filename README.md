@@ -44,6 +44,6 @@ DELETE	/animes/:id	Remove um anime por ID
 ✅ Rápido e leve com Fastify
 
 ---
-👨‍💻 Autor
-Desenvolvido por Anderson Freire
+
+Desenvolvido por Anderson Freire. 🚀
 
